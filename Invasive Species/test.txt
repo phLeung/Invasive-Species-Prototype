@@ -1,0 +1,2 @@
+Dice PlayerNum Score Space CardID
+5       1       20     8     15

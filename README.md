@@ -1,4 +1,4 @@
 # Invasive-Species-Prototype
 A Web board game for my senior's projects class
 This is a prototype web board game and website that educates 4th graders about invasive species.
-I worked on this with a team.
+I worked on this with a team. The web board game project will be passed on to the next projects group. 
